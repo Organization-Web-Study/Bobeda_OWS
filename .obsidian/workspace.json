@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "8da9bf8ef47fc881",
+    "type": "split",
+    "children": [
+      {
+        "id": "f244a6006e6faa56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4059b08f06a31185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NextJS/Nextjs 14/clsx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d4c08aaeb22343a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de06fbf94cf245d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba64ef7654238f32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "498694e8f753db67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a652052b27c91bbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "22fa59bb51a5a2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "961d6cff69fad33b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fd6b58195024c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NextJS/Nextjs 14/clsx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8dde5e19e5ed5b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NextJS/Nextjs 14/clsx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1be1b7f98c206e1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b55a86ad24fedda9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NextJS/Nextjs 14/clsx.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4059b08f06a31185",
+  "lastOpenFiles": [
+    "NextJS/Nextjs 14/clsx.md",
+    "NextJS/Nextjs 14/Estilo CSS.md",
+    "NextJS/Nextjs 14/Diferencias ....md",
+    "NextJS/Nextjs 14/Estructuras de un Proyecto.md",
+    "NextJS/Nextjs 14",
+    "Sin título",
+    "README.md",
+    "NextJS/Que es Nextjs ?.md"
+  ]
+}

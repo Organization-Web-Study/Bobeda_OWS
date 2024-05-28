@@ -1,0 +1,1 @@
+en Next.js, las rutas se basan en el sistema de archivos, lo que significa que cada archivo JavaScript dentro del directorio `pages` se convierte automáticamente en una ruta de tu aplicación. Aquí tienes un ejemplo básico para comprender cómo funcionan las rutas basadas en el sistema de archivos en Next.js 14
