@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f244a6006e6faa56",
+        "id": "16408643ccee7c68",
         "type": "tabs",
         "children": [
           {
-            "id": "4059b08f06a31185",
+            "id": "64afb589cc298005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS/Nextjs 14/clsx.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "22fa59bb51a5a2a1",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NextJS/Nextjs 14/clsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NextJS/Nextjs 14/clsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NextJS/Nextjs 14/clsx.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +139,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4059b08f06a31185",
+  "active": "64afb589cc298005",
   "lastOpenFiles": [
-    "NextJS/Nextjs 14/clsx.md",
-    "NextJS/Nextjs 14/Estilo CSS.md",
-    "NextJS/Nextjs 14/Diferencias ....md",
+    "NextJS/Nextjs 14/Enrutamiento anidado.md",
     "NextJS/Nextjs 14/Estructuras de un Proyecto.md",
+    "NextJS/Nextjs 14/use client.md",
+    "NextJS/Nextjs 14/Estilo CSS.md",
+    "NextJS/Nextjs 14/Link.md",
+    "NextJS/Nextjs 14/Pasted image 20240528194043.png",
+    "NextJS/Nextjs 14/Pasted image 20240528193851.png",
+    "NextJS/Nextjs 14/Pasted image 20240528193829.png",
+    "NextJS/Nextjs 14/Image.md",
+    "NextJS/Nextjs 14/Fonts.md",
+    "NextJS/Nextjs 14/clsx.md",
+    "Excalidraw/Drawing 2024-05-28 19.18.22.excalidraw.md",
+    "Excalidraw",
     "NextJS/Nextjs 14",
     "Sin título",
     "README.md",
